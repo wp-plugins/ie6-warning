@@ -1,0 +1,33 @@
+=== IE6 Warning ===
+Contributors: dnautre
+Donate link: http://dany-the-red.net
+Tags: IE6, warning
+Requires at least: 2.5
+Tested up to: 2.9.1
+Stable tag: 0.5
+
+== Description ==
+
+Simple plugin which displays a IE6 warning to fight against this obsolet browser.
+Based on "Shockingly Big IE6 Warning" by mschertel
+
+== Installation ==
+
+1. Upload the full directory into your /wp-content/plugins/ directory, or install it through the admin interface
+
+== Frequently Asked Questions ==
+
+= Questions? =
+
+Any questions go to the plugin [homepage](http://dany-the-red.net/) and leave a comment.
+
+
+== Changelog ==
+
+= 0.5 =
+
+First try on rewriting a simple IE6 warning plugin
+
+== Author ==
+
+Daniel Nautré [blog](http://dany-the-red.net/developpement/ie6-warning)

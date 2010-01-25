@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: IE6 warning
-Plugin URI: http://dany-the-red.net/
+Plugin URI: http://dany-the-red.net/developpement/ie6-warning
 Description: IE6 Warning message. Help the web getting ride of IE6. Based on "Shockingly Big IE6 Warning" plugin by mschertel
 Author: Daniel Nautr&eacute;
 Version: 0.5

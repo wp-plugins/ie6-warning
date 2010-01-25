@@ -1,6 +1,6 @@
 === IE6 Warning ===
 Contributors: dnautre
-Donate link: http://dany-the-red.net
+Donate link: http://dany-the-red.net/developpement/ie6-warning/
 Tags: IE6, warning
 Requires at least: 2.5
 Tested up to: 2.9.1
@@ -19,7 +19,7 @@ Based on "Shockingly Big IE6 Warning" by mschertel
 
 = Questions? =
 
-Any questions go to the plugin [homepage](http://dany-the-red.net/) and leave a comment.
+Any questions go to the plugin [homepage](http://dany-the-red.net/developpement/ie6-warning) and leave a comment.
 
 
 == Changelog ==
@@ -30,4 +30,4 @@ First try on rewriting a simple IE6 warning plugin
 
 == Author ==
 
-Daniel Nautré [blog](http://dany-the-red.net/developpement/ie6-warning)
+Daniel Nautré [blog](http://dany-the-red.net/)

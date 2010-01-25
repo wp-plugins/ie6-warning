@@ -30,4 +30,4 @@ First try on rewriting a simple IE6 warning plugin
 
 == Author ==
 
-Daniel Nautré [blog](http://dany-the-red.net/)
+Daniel Nautr&eacute; [blog](http://dany-the-red.net/)

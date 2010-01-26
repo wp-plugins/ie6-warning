@@ -2,9 +2,9 @@
 Contributors: dnautre
 Donate link: http://dany-the-red.net/developpement/ie6-warning/
 Tags: IE6, warning
-Requires at least: 2.5
+Requires at least: 2.9
 Tested up to: 2.9.1
-Stable tag: 0.5
+Stable tag: 0.5.2
 
 == Description ==
 
@@ -23,6 +23,15 @@ Any questions go to the plugin [homepage](http://dany-the-red.net/developpement/
 
 
 == Changelog ==
+
+= 0.5.2 =
+
+* [FIX] relativ links to images are far better than absolut ones.
+* [CHANGE] changed URL for Firefox download.
+
+= 0.5.1 =
+
+* [FIX] link to the plugin website
 
 = 0.5 =
 

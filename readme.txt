@@ -4,12 +4,13 @@ Donate link: http://dany-the-red.net/developpement/ie6-warning/
 Tags: IE6, warning
 Requires at least: 2.9
 Tested up to: 2.9.1
-Stable tag: 0.5.2
+Stable tag: 0.6
 
 == Description ==
 
 Simple plugin which displays a IE6 warning to fight against this obsolet browser.
 Based on "Shockingly Big IE6 Warning" by mschertel
+The plugin can display the message in French and in English.
 
 == Installation ==
 
@@ -23,6 +24,10 @@ Any questions go to the plugin [homepage](http://dany-the-red.net/developpement/
 
 
 == Changelog ==
+
+= 0.6 = 
+
+* [ADD] feature to select the displayed language of the warning message. 
 
 = 0.5.2 =
 
